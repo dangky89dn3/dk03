@@ -22,7 +22,7 @@ public class HashSetExample1 {
         set.add("Java1111");
         // Show set through Iterator
         Iterator<String> itr = set.iterator();
-        while (itr.hasNext()) {
+        while (itr234.hasNext()) {
             System.out.print(itr.next() + ", ");
         }
         // Show set through for-each
