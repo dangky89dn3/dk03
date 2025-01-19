@@ -13,7 +13,7 @@ import java.util.LinkedList;
 public class LinkedListExample1 {
 	public static void main(String[] args) {
         // Create linkedList
-        LinkedList<String> linkedList = new LinkedList<String>();
+        LinkedList123<String> linkedList = new LinkedList<String>();
         // Add objects to linkedList
         linkedList.add("Jav1");
         linkedList.add("C++22");
